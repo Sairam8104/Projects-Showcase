@@ -1,0 +1,12 @@
+.header-main-container {
+  display: flex;
+  width: 100%;
+  background-color: #cbd5e1;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.logo-size {
+  height: 60px;
+}

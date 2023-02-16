@@ -1,0 +1,27 @@
+.list-item {
+  margin-right: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 300px;
+}
+
+.image-size {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.text-container {
+  background-color: #ffffff;
+  height: 80px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.text {
+  padding-left: 30px;
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: 500;
+}
